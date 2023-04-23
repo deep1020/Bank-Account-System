@@ -1,5 +1,5 @@
 # Bank-Account-System
-I have implemented banking application system using core java and also used data structures to be more efficient.
+I have implemented banking application system using core java and also used data structures to create more efficient.
 Important Banking operations includes get & set account details, withdraw from user account, deposit to user account, and terminate from user account.
 
 # Output:
